@@ -1,0 +1,10 @@
+{
+  "id": "drh_tuner",
+  "name": "DRH Tuner Panel",
+  "description": "An in-game panel for saved movement, damage and attack-area tuning presets.",
+  "version": "0.1.0",
+  "author": "verox-source",
+  "api": "1.5",
+  "entry": "Main",
+  "uses": []
+}
